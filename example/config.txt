@@ -1,0 +1,2 @@
+Prefix plugins/CSVCoarseFine/example/
+Plugin CSVCoarseFine inputfile abund.thresholded.csv outputfile abund.thresholded.coarsefine.csv
